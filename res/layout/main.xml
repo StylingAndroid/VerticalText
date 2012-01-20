@@ -10,5 +10,12 @@
         android:layout_height="wrap_content"
         android:gravity="bottom|right"
         android:text="@string/text" />
-        
+
+    <TextView
+        android:id="@+id/animated_rotation"
+        style="@style/verticalTextStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text" />
+
 </LinearLayout>
